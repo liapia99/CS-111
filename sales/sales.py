@@ -1,5 +1,5 @@
 #########################################################
-# Sales Commission Report using file : book.dat
+# Sales Commission Report using file : sales.dat
 # File:  sales.py
 # Author: Julia Piascik
 # Date: Oct 24, 2022
